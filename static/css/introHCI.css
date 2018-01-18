@@ -1,4 +1,5 @@
 /* applies to anything of class "example-class-selector" */
+
 .example-class-selector {
 	margin-top: 2em;
 }
@@ -14,8 +15,14 @@
 body {
      border: 1px dotted gray;
      padding: 20px;
-}
 
+}
+#project1{
+     margin-left: 25px;
+     background-color:#eaf2ff;
+     padding: 25px;
+     width: 500px;
+     }
 .jumbotron {
 	position: relative;
 	background: none;
